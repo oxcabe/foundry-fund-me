@@ -1,6 +1,7 @@
 # FundMe
 
-**FundMe** is a minimal crowdfunding platform written in Solidity and targeting Ethereum EVM.
+**FundMe** is a minimal crowdfunding platform written in Solidity and targeting the
+Ethereum EVM.
 
 ## Building from sources
 
