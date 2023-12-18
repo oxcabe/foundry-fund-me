@@ -13,5 +13,3 @@ docs/
 # Dotenv file
 .env
 
-# Gas snapshots
-.gas-snapshot
